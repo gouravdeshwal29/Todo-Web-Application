@@ -1,0 +1,25 @@
+.todo-list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.checkbox-task {
+  display: flex;
+  flex-direction: row;
+}
+
+.delete-sign {
+  margin-right: 20px;
+}
+
+.todo-task {
+  text-decoration: line-through;
+}
+
+.todo-list-item-button {
+  border-width: 0px;
+  background-color: white;
+}

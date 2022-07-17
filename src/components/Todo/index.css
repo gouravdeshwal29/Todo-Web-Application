@@ -1,0 +1,32 @@
+.page-headings {
+  text-align: center;
+}
+
+.input-task-container {
+  text-align: center;
+}
+
+.add-task-button {
+  color: white;
+  background-color: #4c63b6;
+  margin: 20px;
+  padding: 10px;
+  border-color: #4c63b6;
+  border-width: 0px;
+}
+
+.input-container {
+  height: 30px;
+  width: 250px;
+  padding-left: 10px;
+}
+
+.todo-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.empty-list-line {
+  text-align: center;
+}
